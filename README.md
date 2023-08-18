@@ -2,7 +2,16 @@
 
 <h2 align="center">Hi 👋, I'm Samade</h2>
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=I'am+a+full+stack+developer%2CUI+/+UX+Designer)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+   <p align="center" color:"red">
+ <a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;Full+Stack+Web+Developer;UI/UX+Designer;1300%2B+Hours+of+Coding+Experience;"></a>
+      </p>
+       
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  
+ <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"> 
 
 ---
 ### 👦 About Me
