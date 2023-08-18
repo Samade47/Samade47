@@ -69,7 +69,9 @@
 </div>
 
 ---
-
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Samade47&theme=react-dark&hide_border=true" /></a> 
+---
 ### 🐍 Contribution snake
 
 <picture>
