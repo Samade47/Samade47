@@ -3,9 +3,9 @@
 <h2 align="center">Hi 👋, I'm Samade</h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   <p align="center" color:"red">
- <a>
-          <img align="center src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=f1faee&center=true&width=600&lines=MERN+Stack+Web+Developer+🚀;Full+Stack+Web+Developer+☄;UI/UX+Designer;1300%2B+Hours+of+Coding+Experience+🏅"></a>
+   <p align="center">
+ <a align="center>
+          <img align="center src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=fff&center=true&width=600&lines=MERN+Stack+Web+Developer+🚀;Full+Stack+Web+Developer+☄;UI/UX+Designer;1300%2B+Hours+of+Coding+Experience+🏅"></a>
       </p>
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,15 +26,12 @@
 --- 
 
 ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=getlost01&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Samade47&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/getlost01/github-stats">
-<img src="https://getlost01.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://getlost01.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<a href="https://github.com/Samade47/github-stats">
+<img src="https://Samade47.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://Samade47.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 </a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getlost01&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=getlost01&theme=react) -->
-
 
 ### :hammer_and_wrench: Languages and Tools 
 
