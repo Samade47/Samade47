@@ -26,11 +26,13 @@
 --- 
 
 ### 🔥 My Stats 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Samade47&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=getlost01&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<div width="100%" style="display:flex;justify-content:space-between;align-items:center;gap:32">
+   <img width="47%" style="display:inline-block;flex:0.5"  src="https://github-readme-stats.vercel.app/api?username=Samade47&count_private=true&show_icons=true&theme=react" />  <img width="50%" style="display:inline-block;flex:0.5"   src="https://streak-stats.demolab.com/?user=Samade47&theme=react" />
+</div>
+<img style="flex:1"  width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samade47&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
 <a href="https://github.com/Samade47/github-stats">
-<img src="https://Samade47.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://Samade47.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+
 </a>
 
 ### :hammer_and_wrench: Languages and Tools 
@@ -72,9 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
 
----
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Samade47 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Samade47&theme=react-dark&hide_border=true" /></a> 
 ---
 ### 🐍 Contribution snake
 
