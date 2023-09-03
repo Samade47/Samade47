@@ -70,7 +70,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
 
----
-### 🐍 Contribution snake
 
 
